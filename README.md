@@ -1,8 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://rishavchanda.io)
 # 💫 About Me:
-🔭 I’m currently working on Custome Test Selenium Automation Framework<br><br>🌱 I’m currently learning Automation testing with Selenium, cucumber, JMeter<br><br>💬 Ask me about Java collection and collections, API, Problem-solving and Manual Testing<br><br>📫 How to reach me saikat.j.das@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/u/1/my-drive<br><br>⚡ Fun fact In the world of software testing, there's a legendary 'Testing Butterfly Effect' – the seemingly innocent bug that, if left undetected, can lead to the most unexpected and catastrophic consequences. It's like the domino effect of the digital world, where a tiny glitch in one corner of the code can send shockwaves throughout the system. So remember, every bug you catch is a potential digital disaster averted! 🐛🦋💻
 
 <img align="right" alt="Coding" Width="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+🔭 I’m currently working on Custome Test Selenium Automation Framework<br><br>🌱 I’m currently learning Automation testing with Selenium, cucumber, JMeter<br><br>💬 Ask me about Java collection and collections, API, Problem-solving and Manual Testing<br><br>📫 How to reach me saikat.j.das@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/u/1/my-drive<br><br>⚡ Fun fact In the world of software testing, there's a legendary 'Testing Butterfly Effect' – the seemingly innocent bug that, if left undetected, can lead to the most unexpected and catastrophic consequences. It's like the domino effect of the digital world, where a tiny glitch in one corner of the code can send shockwaves throughout the system. So remember, every bug you catch is a potential digital disaster averted! 🐛🦋💻
+
+
 
 
 ## 🌐 Socials:
